@@ -4,7 +4,7 @@ email: taniarascia@gmail.com
 description: >
   A twisted and dynamic path to becoming a Machine Learning guru.
 baseurl: ""
-url: "http://erfi.github.io"
+url: "http://localhost:4000"
 twitter_username: erfi
 github_username:  erfi
 # Build Settings

@@ -1,0 +1,15 @@
+# Site Settings
+title: ML_Blog
+email: taniarascia@gmail.com
+description: >
+  A twisted and dynamic path to becoming a Machine Learning guru.
+baseurl: ""
+url: "http://erfi.github.io"
+twitter_username: erfi
+github_username:  erfi
+# Build Settings
+sass:
+  sass_dir: _sass
+include: ['_pages']
+kramdown:
+  input: GFM

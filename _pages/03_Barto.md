@@ -16,6 +16,11 @@ permalink: /barto/
 ***
 
 ### Softmax algorithm for choosing actions:
+Softmax probabilities are created using:
+{% raw %}
+$$\frac{e^{Q(a)/\tau}}{\sum_{b=1}^{n}e^{Q(b)/\tau}}$$
+where $$\tau$$ is the computational tempetrure.
+{% endraw %}
 ![Softmax: reward over time](/assets/Barto_2p3_softmax_reward.png)
 ![Softmax: percent optimal action over time](/assets/Barto_2p3_softmax_optimalAction.png)
 

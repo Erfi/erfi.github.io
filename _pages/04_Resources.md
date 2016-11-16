@@ -16,11 +16,11 @@ permalink: /resources/
 	+ [John Schulman Deep Reinforcement Learning (Berkeley)(video)](https://www.youtube.com/watch?v=aUrX-rP_ss4)
 
 - Blogs:
-	+ [The Talking Machines (podcast)](http://www.thetalkingmachines.com/)
 	+ [Andrej Karpathy blog](http://karpathy.github.io/)
+	+ [Christopher Olah blog](http://colah.github.io/)
 
 - Podcasts:
-	+ [Christopher Olah blog](http://colah.github.io/)
+	+ [The Talking Machines (podcast)](http://www.thetalkingmachines.com/)
 	
 - Backpropogation related:
 	+ [Backpropogation (both algotrithm and matrix form)](http://www.willamette.edu/~gorr/classes/cs449/backprop.html)

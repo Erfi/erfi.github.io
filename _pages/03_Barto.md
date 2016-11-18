@@ -31,7 +31,7 @@ Using constant $$\epsilon=0.1$$
 
 The action-value method is being updated using $$Q_{k+1} = Q_{k} + \alpha [r_{k+1} - Q_{k}]$$. 
 
-One bandit using $$\alpha=0.1$$ and the other bandit using $$\alpha=\frac{1}{k}$$ where k is the number of times an individual arm (or action) has been played.
+One bandit using $$\alpha=0.1$$ and the other bandit using $$\alpha=\frac{1}{k+1}$$ where k is the number of times an individual arm (or action) has been played.
 
 ![Average Reward over time](/assets/Barto_2-6_nonStationary_rewards.png)
 ![Percent Optimal action over time](/assets/Barto_2-6_nonStationary_optimalAction.png)

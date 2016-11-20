@@ -36,5 +36,19 @@ One bandit using $$\alpha=0.1$$ and the other bandit using $$\alpha=\frac{1}{k+1
 ![Average Reward over time](/assets/Barto_2-6_nonStationary_rewards.png)
 ![Percent Optimal action over time](/assets/Barto_2-6_nonStationary_optimalAction.png)
 
+***
+### 10-arm bandit problem using **Reinforcement Comparison** method (Barto 2.8)
+Varying the values of $$\alpha$$ and $$\beta$$ parameters which are used in updating the action preferances and global average reward.
+
+The following two graphs were created by using three different values of $$\alpha$$ while keeping the $$\beta$$ the same.
+
+![RC: Average Reward over time - alpha varying](/assets/Barto_RC_alpha_reward.png)
+![RC: Percent Optimal action over time - alpha varying](/assets/Barto_RC_alpha_optimal.png)
+
+The following two graphs were created similarly, by using three different values for $$\beta$$ while keeping the $$\alpha$$ the same.
+
+![RC: Average Reward over time - beta varying](/assets/Barto_RC_beta_reward.png)
+![RC: Percent Optimal action over time - beta varying](/assets/Barto_RC_beta_optimal.png)
+
 
 

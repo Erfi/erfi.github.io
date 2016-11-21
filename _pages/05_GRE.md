@@ -68,3 +68,11 @@ permalink: /GRE/
 2. **entrenched**: (adj) The grandma's habbits are so entrenched that it is difficult to change them
 3. **didactic**: (adj) a didactic novel that set out to expose social injustice
 4. **eschew**: (verb) he appealed to the crowd to eschew violence
+5. **recondite**: (adj) I find it hard to understand the recondite terms of the contract
+6. **conspicuous**: (adj) he was very thin, with a conspicuous Adam's apple
+7. **banal**: (adj) songs with banal, repeated words
+8. **preclude**: (verb) his difficulties preclude him from leading a normal life
+9. **inexorable**: (adj) the seemingly inexorable march of new technology
+10. **impudent**: (adj) If he hadn’t been so impudent, I might have given him a couple of bucks
+11. **cryptic**: (adj) she leaves cryptic messages on his answering machine
+12. **gainsay**: (verb) it was difficult to gainsay his claim

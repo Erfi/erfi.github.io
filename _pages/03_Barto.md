@@ -37,8 +37,9 @@ One bandit using $$\alpha=0.1$$ and the other bandit using $$\alpha=\frac{1}{k+1
 ![Percent Optimal action over time](/assets/Barto_2-6_nonStationary_optimalAction.png)
 
 ***
+
 ### 10-arm bandit problem using **Reinforcement Comparison** method (Barto 2.8)
-Varying the values of $$\alpha$$ and $$\beta$$ parameters which are used in updating the action preferances and global average reward.
+Varying the values of $$\alpha$$ and $$\beta$$ parameters which are used in updating the action preferences and global average reward.
 
 The following two graphs were created by using three different values of $$\alpha$$ while keeping the $$\beta$$ the same.
 
@@ -49,6 +50,11 @@ The following two graphs were created similarly, by using three different values
 
 ![RC: Average Reward over time - beta varying](/assets/Barto_RC_beta_reward.png)
 ![RC: Percent Optimal action over time - beta varying](/assets/Barto_RC_beta_optimal.png)
+
+Below are the two graphs comparing the performance of Epsilon-Greedy and Reinforcement Comparison methods.
+
+![Eps vs RC: Avg Reward](/assets/avgReward_epsGreedy_vs_reinfComp.png)
+![Eps vs RC: %optimal](/assets/optimal_epsGreedy_vs_reinfComp.png)
 
 
 

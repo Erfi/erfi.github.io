@@ -3,7 +3,8 @@ layout: page
 title: Resources
 permalink: /resources/
 ---
-
+<div class="row" markdown="1">
+<div class="col-md-12" markdown="1">
 ### Useful resources availible on the internet for Machine Learning:
 
 - Web Books:
@@ -26,3 +27,6 @@ permalink: /resources/
 	+ [Backpropogation (both algotrithm and matrix form)](http://www.willamette.edu/~gorr/classes/cs449/backprop.html)
 	+ [Artificial neural networks matrix form implementation](http://briandolhansky.com/blog/2014/10/30/artificial-neural-networks-matrix-form-part-5)
 	+ [Cross antropy backpropogation derivative](https://www.ics.uci.edu/~pjsadows/notes.pdf)
+
+</div>
+</div>

@@ -3,7 +3,12 @@ layout: page
 title: Contact
 permalink: /contact/
 ---
+<div class="row" markdown="1">
+<div class="col-md-12" markdown="1">
 
-Contact content goes here.
+You can contact me via email below:
 
-My e-mail is [erfan.basiri.azad@gmail.com](mailto:erfan.basiri.azad@gmail.com).
+[erfan.basiri.azad@gmail.com](mailto:erfan.basiri.azad@gmail.com).
+
+</div>
+</div>

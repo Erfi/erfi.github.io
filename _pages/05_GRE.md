@@ -3,7 +3,8 @@ layout: page
 title: GRE
 permalink: /GRE/
 ---
-
+<div class="row" markdown="1">
+<div class="col-md-12" markdown="1">
 ### Important words for the GRE from [Magoosh Vocabulary Flashcards](https://gre.magoosh.com/flashcards/vocabulary/decks):
 
 ***
@@ -76,3 +77,5 @@ permalink: /GRE/
 10. **impudent**: (adj) If he hadn’t been so impudent, I might have given him a couple of bucks
 11. **cryptic**: (adj) she leaves cryptic messages on his answering machine
 12. **gainsay**: (verb) it was difficult to gainsay his claim
+</div>
+</div>

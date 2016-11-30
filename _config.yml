@@ -13,3 +13,6 @@ sass:
 include: ['_pages']
 kramdown:
   input: GFM
+collections:
+  Bartos:
+    output: true

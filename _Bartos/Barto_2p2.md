@@ -24,9 +24,16 @@ As $$t\to\infty$$ then $$Q_{t}(a) \to Q^{*}_{t}(a)$$ which is the actual value o
 One way to address the *Exploration vs. Exploitaion* problem is to use Epsilon-Greedy action selection. *Epsilon* refers to the percentage or portion of times that a random action is selected instead of the *Greedy* action, which is the action with highest estimated value. 
 The main idea is that allowing random actions a small percentage of the time will yeild to higher reward eventually.
 
-The graphs below are using *Epsilon-Greedy* action selection in order to select the actions for a [10-arm bandit problem](https://en.wikipedia.org/wiki/Multi-armed_bandit). These graphs are similar to graphs in the book but they are extended to 10000 plays in order to illustrate the fact that average reward using $$\epsilon = 0.01$$ eventually passes the average reward using $$\epsilon = 0.1$$. The reason is that with smaller $$\epsilon$$ we are still exploring (although at a slower rate) which will allow us to find better actions over time, however, we are also using the action with the highest estimate value more often. 
+The graphs below are using *Epsilon-Greedy* action selection in order to select the actions for a [10-arm bandit problem](https://en.wikipedia.org/wiki/Multi-armed_bandit). These graphs are similar to graphs in the book but they are extended to 10000 plays in order to illustrate the fact that average reward using $$\epsilon = 0.01$$ eventually passes the average reward using $$\epsilon = 0.1$$. The reason is that with smaller $$\epsilon$$ we are still exploring (although at a slower rate) which will allow us to find better actions over time, however, we are also using the action with the highest estimate value more often.
 
 {% endraw %}
+
+***
+
+#### [View Code](https://github.com/Erfi/barto/blob/master/bandit.py)
+
+***
+
 <img src="/assets/Barto_2p2_EpsilonGreedy_AvgReward.png" class="img-thumbnail C-graph-center" alt="Epsilon-Greedy: reward over time" width="{{ page.img_w }}" height="{{ page.img_h }}">
 
 <img src="/assets/Barto_2p2_EpsilonGreedy_PercentOptimalAction.png" class="img-thumbnail C-graph-center" alt="Epsilon-Greedy: percent optimal action over time" width="{{ page.img_w }}" height="{{ page.img_h }}">

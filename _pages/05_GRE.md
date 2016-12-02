@@ -77,5 +77,28 @@ permalink: /GRE/
 10. **impudent**: (adj) If he hadn’t been so impudent, I might have given him a couple of bucks
 11. **cryptic**: (adj) she leaves cryptic messages on his answering machine
 12. **gainsay**: (verb) it was difficult to gainsay his claim
+13. **bucolic**: (adj) they used to once owne vast expanses of beautiful, bucolic land
+14. **mawkish**: (adj) a mawkish poem
+15. **germane**: (adj) that is not germane to our theme 
+16. **lambast**: (verb) they lambasted the report as a gross distortion of the truth
+17. **volubility**: (noun) her legendary volubility deserted her
+18. **deferential**: (adj) when meeting the president, stand up straight and be deferential
+19. **aesthete**: (noun) Steve was not an aesthete, he was only there for the free drinks
+20. **decorous**: (adj) dancing with decorous space between partners
+21. **engender**: (verb) the issue engendered continuing controversy
+22. **fortuitous**: (adj) the similarity between the paintings may not be simply fortuitous
+23. **rustic**: (adj) bare plaster walls and a terra-cotta floor give a rustic feel 
+24. **culminate**: (verb) Beethoven's musical genius culminated in the 9th Symphony
+25. **prescience**: (noun) with extraordinary prescience, Jung actually predicted the Nazi eruption
+26. **chortle**: (verb) I could hear happy, chortling people and smell the rich aroma of roasted coffee beans
+27. **reticent**: (adj) she was extremely reticent about her personal affairs
+29. **diffident**: (adj) a diffident and shy youth
+30. **perfidy**: (noun) the perfidy of her husband
+31. **mitigate**: (verb) he would have faced a prison sentence but for mitigating circumstances
+32. **apathetic**: (adj) apathetic slackers who don't vote
+33. **querulous**: (adj) she became querulous and demanding
+
+
+
 </div>
 </div>

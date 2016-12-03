@@ -30,6 +30,12 @@ For implementation purposes, $$\bar{r_{0}}$$ can be set optimistically to a larg
 
 In order to highlight the effect of $$\alpha$$ and $$\beta$$ parameters I ahve kept one of them constant and varied the other one in the next four plots. 
 
+***
+
+#### [View Code](https://github.com/Erfi/barto/blob/master/banditRC.py)
+
+***
+
 {% endraw %}
 
 <img src="/assets/Barto_RC_alpha_reward.png" class="img-thumbnail C-graph-center" alt="RC: Average Reward over time - alpha varying" width="{{ page.img_w }}" height="{{ page.img_h }}">

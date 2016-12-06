@@ -97,6 +97,22 @@ permalink: /GRE/
 31. **mitigate**: (verb) he would have faced a prison sentence but for mitigating circumstances
 32. **apathetic**: (adj) apathetic slackers who don't vote
 33. **querulous**: (adj) she became querulous and demanding
+34. **incisive**: (adj) he lawyer had an incisive mind
+35. **gossamer**: (adj) the gossamer wings of a butterfly
+36. **superfluous:**: (adj) the third paragraph in your essay is superfluous and can be deleted
+37. **meticulous**: (adj) The painter gave a meticulous attention to detail
+38. **culpability**: (noun) a level of moral culpability
+39. **gall**: (noun) the speeding car had the gall to switch five lanes at once
+40. **dogmatic**: (adj) Steve is dogmatic in his belief that the earth is flat
+41. **platitude**: (noun) she began uttering liberal platitudes
+42. **concede**: (verb) I concede. You win!
+43. **frivolous**: (adj) rules to stop frivolous lawsuits
+
+***
+
+
+
+
 
 
 

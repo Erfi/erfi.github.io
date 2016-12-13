@@ -10,7 +10,7 @@ permalink: /GRE/
 ***
 
 #### Common Words 1
-1. **egregious**: (adj) His behaviour in class was egragious
+1. **egregious**: (adj) His behavior in class was egregious
 2. **impertinent**: (adj) An impertinent question
 3. **profligate**: (adj) Profligate consumers of energy
 4. **acrimony**: (noun) A quagmire of lawsuits, acrimony and finger-pointings
@@ -22,8 +22,8 @@ permalink: /GRE/
 10. **amenable**: (adj) Parents who have had easy babies and amenable children...
 11. **galvanize**: (adj) The urgency of his voice galvanized them into action
 12. **disinterested**: (adj) Disinterested advice
-13. **mercurial**: (adj) His mercurial temperment 
-14. **commensurate**: (adj) The had privilages but commensurate duties
+13. **mercurial**: (adj) His mercurial temperament 
+14. **commensurate**: (adj) The had privileges but commensurate duties
 15. **vindicate**: (verb) He was vindicated by the jury
 16. **venality**: (noun) These politicians are not immune to venality
 17. **auspicious**: (adj) Thanks for joining us in this auspicious occasion
@@ -31,14 +31,14 @@ permalink: /GRE/
 20. **prevaricate**: (verb) He seemed to prevaricate the journalist's question
 21. **aberration**: (noun) A statistical aberration
 22. **belie**: (verb) His eyes belied his words
-23. **prodigal**: (adj) Prodigal habbits die hard
+23. **prodigal**: (adj) Prodigal habits die hard
 24. **censure**: (verb) He was censured for his actions
 25. **ingenuous**: (adj) She had never before met a grown man so ingenuous
-26. **castigate**: (verb) Drill surgents are known to castigate new recruits
+26. **castigate**: (verb) Drill surgeons are known to castigate new recruits
 27. **gregarious**: (adj) Often we think that great leaders are those who are gregarious
 28. **maintain**: (verb) The scientist maintained that the earth was flat!
 29. **qualify**: (verb) Chris qualified his love for Alice saying that she had four eyes!
-30. **artful**:  (adj) Picasso is generally considered the most artful memeber of the Cubist movement
+30. **artful**:  (adj) Picasso is generally considered the most artful member of the Cubist movement
 31. **amalgam**: (noun) The band's music was an amalgam of hip-hop and jazz
 32. **harangue**: (noun/verb) Steve was a kind of guy who harangued total strangers about clown fish rights!
 33. **veracious**: (adj) He was so veracious of a man, that it was said of him, after his death, 'Truth died with Matyas'
@@ -55,8 +55,8 @@ permalink: /GRE/
 44. **ambiguous**: (adj) equivocal
 45. **betray**: (verb) his quivering lip betrayed his intense emotions
 46. **intimate**: (verb) the teacher intimated Steve's parents that he was not suited to skip a class
-47. **wanting**: (adj) as he started to read the book he realized that his vocabluary was wanting
-48. **undermine**: (verb) the student undermined the teacher's authority by questioning the teacher's judjments
+47. **wanting**: (adj) as he started to read the book he realized that his vocabulary was wanting
+48. **undermine**: (verb) the student undermined the teacher's authority by questioning the teacher's judgments
 49. **frugal**: (adj) Steve was frugal, wisely spending the little that he had 
 50. **extant**: (adj) the original manuscript is no longer extant
 51. **iconoclast**: (noun) Lady Gaga is an iconoclast for wearing a 'meat dress' to a prominent awards show 
@@ -66,7 +66,7 @@ permalink: /GRE/
 ### Common words 2
 
 1. **predilection**: (noun) my predilection for Asian food
-2. **entrenched**: (adj) The grandma's habbits are so entrenched that it is difficult to change them
+2. **entrenched**: (adj) The grandma's habits are so entrenched that it is difficult to change them
 3. **didactic**: (adj) a didactic novel that set out to expose social injustice
 4. **eschew**: (verb) he appealed to the crowd to eschew violence
 5. **recondite**: (adj) I find it hard to understand the recondite terms of the contract
@@ -77,7 +77,7 @@ permalink: /GRE/
 10. **impudent**: (adj) If he hadn’t been so impudent, I might have given him a couple of bucks
 11. **cryptic**: (adj) she leaves cryptic messages on his answering machine
 12. **gainsay**: (verb) it was difficult to gainsay his claim
-13. **bucolic**: (adj) they used to once owne vast expanses of beautiful, bucolic land
+13. **bucolic**: (adj) they used to once own vast expanses of beautiful, bucolic land
 14. **mawkish**: (adj) a mawkish poem
 15. **germane**: (adj) that is not germane to our theme 
 16. **lambast**: (verb) they lambasted the report as a gross distortion of the truth
@@ -118,3 +118,4 @@ permalink: /GRE/
 
 </div>
 </div>
+

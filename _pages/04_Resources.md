@@ -28,5 +28,8 @@ permalink: /resources/
 	+ [Artificial neural networks matrix form implementation](http://briandolhansky.com/blog/2014/10/30/artificial-neural-networks-matrix-form-part-5)
 	+ [Cross antropy backpropogation derivative](https://www.ics.uci.edu/~pjsadows/notes.pdf)
 
+- Optimization related:
+	+ [An overview of SGD optimization methods](http://sebastianruder.com/optimizing-gradient-descent/index.html)
+
 </div>
 </div>

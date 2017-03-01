@@ -16,6 +16,8 @@ permalink: /resources/
 	+ [CS231n: Convolutional Neural Net for Visual Recognition](http://cs231n.github.io/)
 	+ [CS231n: Lecture Videos](https://www.youtube.com/watch?v=yp9rwI_LZX8&list=PL16j5WbGpaM0_Tj8CRmurZ8Kk1gEBc7fg)
 	+ [John Schulman Deep Reinforcement Learning (Berkeley)(video)](https://www.youtube.com/watch?v=aUrX-rP_ss4)
+	+ [Deep Reinforcement Learning (Berkeley: CS294)](http://rll.berkeley.edu/deeprlcourse/)
+	+ [Deep Reinforcement Learning and Control (CMU: 10703)](https://katefvision.github.io/)
 
 - Blogs:
 	+ [Andrej Karpathy blog](http://karpathy.github.io/)

@@ -9,7 +9,7 @@ permalink: /resources/
 
 - Web Books:
 	+ [Neuralnetworks and deeplearning (Michael Neilsen)](http://neuralnetworksanddeeplearning.com/index.html)
-	+ [Reinforcement Learning (Richard S. Sutton and Andrew G. Barto)](http://webdocs.cs.ualberta.ca/~sutton/book/ebook/the-book.html)
+	+ [Reinforcement Learning (Richard S. Sutton and Andrew G. Barto)](http://incompleteideas.net/sutton/book/ebook/the-book.html)
 	+ [Deep Learning (Ian Goodfellow and Yoshua Bengio and Aaron Courville)](http://www.deeplearningbook.org)
 
 - Online Courses:

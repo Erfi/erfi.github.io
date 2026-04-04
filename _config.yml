@@ -56,7 +56,7 @@ footer_fixed: true
 search_enabled: false
 socials_in_search: true
 posts_in_search: true
-bib_search: true
+bib_search: false
 
 # Dimensions
 max_width: 930px
@@ -207,7 +207,6 @@ exclude:
   - _pages/projects.md
   - _pages/blog.md
   - _pages/dropdown.md
-  - _pages/publications.md
   - _pages/repositories.md
   - _pages/cv.md
 keep_files:
